@@ -1,0 +1,24 @@
+{
+  "name": "aulas-type-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josanjohnata/aulas-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josanjohnata/aulas-typescript/issues"
+  },
+  "homepage": "https://github.com/josanjohnata/aulas-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.4.2"
+  }
+}
